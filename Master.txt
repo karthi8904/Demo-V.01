@@ -12,6 +12,6 @@ Currently Done
 
 6) GitHub
 
-Next Updation Work i 
+Next Updation Working 
 
 7) Jmeter --> For Performance Testing 
